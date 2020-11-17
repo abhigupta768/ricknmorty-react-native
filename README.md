@@ -1,5 +1,5 @@
 # ricknmorty-react-native
-A small react native project that displays characters from Rick and Morty.
+A small react native project that displays [characters](https://rickandmortyapi.com/documentation/) from Rick and Morty.
 
 ## How to Run:
 
